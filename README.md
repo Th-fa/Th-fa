@@ -4,10 +4,10 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Th-fa&show_icons=true&theme=tokyonight" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=Th-fa&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/Th-fa/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th-fa&layout=compact&langs_count=16&theme=tokyonight&card_width=250" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th-fa&layout=compact&langs_count=16&theme=tokyonight&card_width=250" />
 </a>
 
 ### Tenho conhecimento nessas tecnologias 👇:
