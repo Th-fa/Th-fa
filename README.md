@@ -1,8 +1,14 @@
 ### Olá, eu sou a Thifany!👋
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thifanyduarte/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thifanyduarte/)
 
-![Th-fa GitHub stats](https://github-readme-stats.vercel.app/api?username=Th-fa&show_icons=true&theme=tokyonight)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Th-fa&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/Th-fa/convoychat">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th-fa&layout=compact&langs_count=16&theme=tokyonight&card_width=250" />
+</a>
 
 ### Tenho conhecimento nessas tecnologias 👇:
 
@@ -15,8 +21,6 @@
 <img align=center alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img align=center alt="azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"> 
 </div> <br>
-
-![oi](https://github-readme-stats.vercel.app/api/top-langs/?username=Th-fa&layout=compact)
 
 ### 📱 Contato:
 
